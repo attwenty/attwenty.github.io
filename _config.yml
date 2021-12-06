@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: at20 - don't over-engineer IT!
+title: at20 - Intelligent Automation
 email: info@at20.at
 description: >- # this means to ignore newlines until "baseurl:"
   at20 - IT consulting mit Fokus auf "Intelligent Automation" bzw. "Hyperautomation".
