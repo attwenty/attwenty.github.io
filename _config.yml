@@ -1,3 +1,10 @@
+title: at20
+email: info@at20.at
+description: at20 ist ein auf _Intelligent Automation_ spezialisierter IT-Dienstleister
+url: "https://www.at20.at"
+twitter_username: BitAddict
+github_username: attwenty
+
 remote_theme: vvalchev/creative-theme-jekyll-new
 
 gems:
